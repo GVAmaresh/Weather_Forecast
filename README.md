@@ -1,3 +1,4 @@
+In this project, we've used React and Node.js to create an application that provides weather forecast information and the ability to convert between latitude and longitude (lat and lng) coordinates and city names.
 
 To set up and run this project, follow these steps:
 
