@@ -18,6 +18,8 @@ Run the following commands to install the required dependencies:
 >>> npm install express nodemon cors
 After the installation is complete, start the backend server:
 
+>>> npm i
+To download the requirements for react 
 >>> npm start
 
 Step 3: Running the Frontend
